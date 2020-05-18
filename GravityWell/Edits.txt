@@ -1,0 +1,50 @@
+Gravity Well Removals:
+  /*if (keysIn.contains('w')) {
+    myPlayers.get(0).up();
+    myPlayers.get(0).fuel();
+  }
+  if (keysIn.contains('s')) {
+    myPlayers.get(0).down();
+    myPlayers.get(0).fuel();
+  }
+  if (keysIn.contains('a')) {
+    myPlayers.get(0).left();
+    myPlayers.get(0).fuel();
+  } 
+  if (keysIn.contains('d')) {
+    myPlayers.get(0).right();
+    myPlayers.get(0).fuel();
+  }
+  if (keysIn.contains('i')) {
+    myPlayers.get(1).up();
+    myPlayers.get(1).fuel();
+  } 
+  if (keysIn.contains('k')) {
+    myPlayers.get(1).down();
+    myPlayers.get(1).fuel();
+  } 
+  if (keysIn.contains('j')) {
+    myPlayers.get(1).left();
+    myPlayers.get(1).fuel();
+  } 
+  if (keysIn.contains('l')) {
+    myPlayers.get(1).right();
+    myPlayers.get(1).fuel();
+  }*/
+
+Player:
+/*void up(){
+    ySpeed -= 0.05;
+  }
+  
+  void down(){
+    ySpeed += 0.05;
+  }
+  
+  void left(){
+    xSpeed -= 0.05;
+  }
+  
+  void right(){
+    xSpeed += 0.05;
+  }*/

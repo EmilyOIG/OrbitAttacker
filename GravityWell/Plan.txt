@@ -1,0 +1,7 @@
+(i)Heart Lives /complete
+(ii)Missile Load /complete
+(v)Asteroids\in process
+(vi)Fuel/Powerups
+(vii)Wrap around edges?
+(iii)Starting Velocity
+(iv)Blackhole Spin
